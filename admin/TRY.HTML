@@ -1,0 +1,16 @@
+<script>
+   function randomString() {
+    var chars = "0123456789";
+    var string_length = 11;
+    var randomstring = '';
+    for (var i=0; i<string_length; i++) {
+        var rnum = Math.floor(Math.random() * chars.length);
+        randomstring += chars.substring(rnum,rnum+1);
+    }
+    document.randform.randomfield.value = randomstring;
+}
+</script>
+<form name="randform">
+<button type="button" value="Create Random String" onClick="randomString();">&nbsp;</button>
+<input type="text" name="randomfield" value="">
+</form>

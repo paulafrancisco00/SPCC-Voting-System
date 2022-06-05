@@ -1,0 +1,23 @@
+
+
+USER SIDE
+* 3 User Types: Admin, Comelec, User > Done
+*Show in front page the instructions how to vote. >Done
+*Remove Log Out > Done
+* Front Page - Welcome View > Done
+* Student Number should not duplicate > Done
+* Should Generate random strings in Student Number to access their account. > 
+* Add image in Nominees Page > Done
+*Show all votes by selected candidates > Done
+
+
+
+
+
+*Print Button - Should see all most voted nominees.at every party list
+*Show all voters
+*Add new table for those who have done voted
+*After voting their candidates, the voter should not have access to log in
+*Should vote all nominees in one page.
+
+

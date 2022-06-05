@@ -1,0 +1,28 @@
+-------PROGRESS-------
+
+FIXED TASKS
+> Image Update [edit_nominee.php]
+> Fixed Radio Button by Selected Nominees
+> Design all pages (Admin, Comelec, User) 
+> Image Magnifying Glass
+> User should log by using their student number and voters code given by their administrator
+> Confirmation + require every position of votes
+> Page of Voting Success by user
+> Changing 'inactive' at user's status
+> User should not access their accounts anymore after vote.
+> Selected time accessing web page by users [MANUAL] (6am-5pm)
+> Vote result Printed via Excel
+> Showing all nominees by selected party list
+> Comelec page
+> Generating Student Number limit by 9
+> Real time count votes at Vote Result
+
+
+STILL NOT FIXED TASKS
+> Duplicating Data by showing all votes [ADMIN]
+> Show their selected votes through modal [USER]
+> Delete all data and insert it to another table
+
+Other add functionalities [Some Ideas]
+> Should have real time search or sort 
+> Pagination
